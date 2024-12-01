@@ -1,26 +1,21 @@
-<h1 align="center">Hai 👋, nama saya Muhammad Rafi</h1>
-<h3 align="center">Halo, nama saya Muhammad Rafi, dan saya adalah siswa di SMKN 3 Tuban, jurusan Rekayasa Perangkat Lunak. Sebagai seorang pemula di dunia teknologi, saya sangat antusias untuk belajar dan mengembangkan keterampilan saya dalam pemrograman dan pengembangan web. Saya memiliki pengetahuan dasar tentang HTML, CSS, dan JavaScript, dan saat ini saya sedang menjelajahi berbagai alat seperti Flutter dan Firebase untuk membuat proyek yang sederhana namun fungsional. Sambil belajar, saya senang bereksperimen dengan ide-ide baru, memecahkan masalah, dan memahami bagaimana teknologi dapat membuat hidup lebih mudah. Tujuan saya adalah untuk terus meningkatkan keterampilan saya dan mendapatkan lebih banyak pengalaman saat mengerjakan proyek dan tantangan yang membantu saya berkembang sebagai pengembang.</h3>
+# 💫 About Me:
+🌱 I’m currently learning<br>Web technologies like HTML, CSS, and JavaScript, as well as backend and mobile development with MySQL, Java, and Flutter.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi194uijuq&label=Profile%20views&color=0e75b6&style=flat" alt="rafi194uijuq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi194uijuq" alt="rafi194uijuq" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rfiaee) 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rafi194uijuq&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafi194uijuq&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi194uijuq&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👨‍💻 Semua proyek saya tersedia di [https://my-portofolio-beta-six.vercel.app/](https://my-portofolio-beta-six.vercel.app/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-- 📫 Cara menghubungi saya **rafimuhammad190108@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=rafi194uijuq&icon=2&color=9)](https://visitcount.itsvg.in)
 
-<h3 align="left">Hubungi saya:</h3>
-<p align="left">
-<a href="https://instagram.com/@rfiaee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rfiaee" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Bahasa dan Alat:
-Bahasa Indonesia: <p align="kiri"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" lebar="40" tinggi="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" lebar="40" tinggi="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" lebar="40" tinggi="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" lebar="40" tinggi="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" lebar="40" tinggi="40"/> </a> </p>
-
-Bahasa Indonesia: <p><img align="left" src="https://github-readme-stats.vercel.app/api/bahasa-terbaik?username=rafi194uijuq&show_icons=true&locale=id&layout=compact" alt="rafi194uijuq" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafi194uijuq&show_icons=true&locale=id" alt="rafi194uijuq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafi194uijuq&" alt="rafi194uijuq" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
