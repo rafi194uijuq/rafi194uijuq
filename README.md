@@ -1,9 +1,9 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>Web technologies like HTML, CSS, and JavaScript, as well as backend and mobile development with MySQL, Java, and Flutter.
+<strong>🌱 I’m currently learning</strong><br>Web technologies like HTML, CSS, and JavaScript, as well as backend and mobile development with MySQL, Java, and Flutter.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rfiaee) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/secrafi19) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
